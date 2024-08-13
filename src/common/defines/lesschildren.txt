@@ -1,0 +1,8 @@
+﻿NChildbirth = {
+	BASE_NR_OF_CHILDREN_PER_COUPLE = { 1 1 2 2 3 3 } # Based on tier of character or parents; whichever is higher Unlanded, Baron, Count, ..., Emperor
+	CHANCE_OF_LOWERED_CHILD_LIMIT = 0.5	# Chance that the child limit is lowered by 1
+	EXTRA_CHILDREN_FOR_RULERS = 1 # If either character is a ruler, they get extra children
+	CHARACTER_IN_POOL_CHILD_LIMIT = -1	# If in the pool, child limit is modified by this
+	CHILD_BIRTH_TO_PREGNANCY_WAIT = 6
+	FEMALE_CHANCE = 50
+}

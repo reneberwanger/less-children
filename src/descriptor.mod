@@ -4,4 +4,4 @@ tags={
 	"Gameplay"
 }
 name="Less Children"
-supported_version="1.12.5"
+supported_version="1.14.2.2"
